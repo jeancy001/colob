@@ -36,7 +36,7 @@ export function Onboarding() {
       <div className="flex items-center justify-between px-5 pb-2 pt-3">
         <div className="flex items-center gap-2">
           <ColobMark className="h-7 w-7" />
-          <span className="font-display text-lg font-bold tracking-tight">COLOB</span>
+          <span className="font-display text-lg font-bold tracking-tight">KOLOB</span>
         </div>
         <Link href="/signin" className="text-sm font-medium text-muted-foreground">
           Skip

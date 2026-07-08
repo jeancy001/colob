@@ -16,9 +16,9 @@ const clash = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: 'COLOB — Business Connection Platform for Africa',
+  title: 'KOLOB — Business Connection Platform for Africa',
   description:
-    'COLOB connects startups, SMEs, enterprises and institutions across Africa and global markets through AI-powered discovery, partnerships and collaboration.',
+    'KOLOB connects startups, SMEs, enterprises and institutions across Africa and global markets through AI-powered discovery, partnerships and collaboration.',
   generator: 'v0.app',
 }
 
